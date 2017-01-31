@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Examensegunda</string>
+    <string name="lblmenu">MENU PRINCIPAL</string>
+    <string name="act1">EL TIEMPO</string>
+    <string name="act2">DATOS ATOMICOS</string>
+    <string name="act3">MULTIMEDIA</string>
+    <string name="salir">SALIR</string>
+    <string name="lblelemento">Introduce nombre de elemento quimico:</string>
+    <string name="btninfo">INFORMACION DEL ELEMENTO</string>
+    <string name="volver">VOLVER</string>
+    <string name="lblsimbolo">Simbolo quimico: </string>
+    <string name="lblnumero">Numero Atomico: </string>
+    <string name="lblpeso">Peso Atomico: </string>
+    <string name="lblpunto">Punto de Ebullicion: </string>
+    <string name="lbldensidad">Densidad: </string>
+    <string name="lblescoge">Escoge una de las siguientes localidades: </string>
+    <string name="btnbilbao">BILBO-BILBAO</string>
+    <string name="btnvitoria">VITORIA-GASTEIZ</string>
+    <string name="btndonostia">DONOSTIA-SAN SEBASTIAN</string>
+    <string name="lblactual">Tiempo actual en: </string>
+
+</resources>
